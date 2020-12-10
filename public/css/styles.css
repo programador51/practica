@@ -1,0 +1,37 @@
+.caja-login{
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translateX(-50%) translateY(50%);
+}
+
+.centrar{
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.fas{
+    font-size: 1.5em;
+}
+
+.logo{
+    width:110px; 
+    height:30px;
+}
+
+.nav-item:hover{
+    background-color: rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+
+.img-previa{
+    width: 40px;
+    height: 40px;
+}
+
+/* form{
+    background-color: red;
+} */
